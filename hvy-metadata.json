@@ -2,5 +2,6 @@
     "name": "The Heavies",
     "symbol": "HVY",
     "description": "A meme coin honoring The Heavies",
-    "image": "https://raw.githubusercontent.com/the-heavies/HVY-sol/main/heavies_logo.PNG"
+    "image": "https://raw.githubusercontent.com/the-heavies/HVY-sol/main/heavies_logo.PNG",
+    "uri": "https://raw.githubusercontent.com/the-heavies/HVY-sol/main/hvy-metadata.json"
 }
